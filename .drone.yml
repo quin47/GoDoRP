@@ -3,11 +3,12 @@ name: default
 
 workspace:
   base: /go
-  path: src/github.com/quin47/GoDoRP/api
+  path: src/github.com/quin47/GoDoRP
 
 steps:
 - name: test
   image: golang
   commands:
+  - cd api
   - go get 
   - go test
