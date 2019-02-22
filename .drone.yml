@@ -3,7 +3,7 @@ name: default
 
 workspace:
   base: /go
-  path: src/github.com/quin47/GoDoRP
+  path: src/github.com/quin47/GoDoRP/api
 
 steps:
 - name: test
