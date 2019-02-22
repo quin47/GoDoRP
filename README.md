@@ -1,6 +1,9 @@
 # GoDoRP
 GoDoRP (Golang, Docker, React, Postgres) project starter.
 
+
+[![Build Status](https://drone.cosette.xyz/api/badges/quin47/GoDoRP/status.svg)](https://drone.cosette.xyz/quin47/GoDoRP)
+
 Disclaimer: This project is not actively supported and not recommended for production apps. Hope it serves as a learning resource.
 
 ## Features
